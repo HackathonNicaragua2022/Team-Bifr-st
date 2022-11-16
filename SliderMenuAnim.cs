@@ -6,6 +6,7 @@ public class SliderMenuAnim : MonoBehaviour
 {
     public GameObject PanelMenu;
 
+    //Metodo para realizar la animacion de mostrar y ocultar el menu
     public void ShowHideMenu()
     {
         if (PanelMenu != null)

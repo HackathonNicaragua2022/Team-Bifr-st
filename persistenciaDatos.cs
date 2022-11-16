@@ -26,6 +26,7 @@ public class persistenciaDatos : MonoBehaviour
     }
 
     //Guardar datos del usuario
+    //Metodo para guardar los datos que fueron ingresados por el usuario
     public void saveString()
     {
         string nombreUsuario = nombre.text;

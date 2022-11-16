@@ -37,7 +37,8 @@ public class typewriterUI : MonoBehaviour
 		}
 	}
 
-	IEnumerator TypeWriterText()
+	//Metodo para mostrar la animacion caracter por caracter 
+    IEnumerator TypeWriterText()
 	{
 		_text.text = leadingCharBeforeDelay ? leadingChar : "";
 

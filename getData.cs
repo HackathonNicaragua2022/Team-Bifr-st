@@ -18,6 +18,7 @@ public class getData : MonoBehaviour
     }
 
     // Update is called once per frame
+    //Borrar los datos que se almacenaron
     public void eraserPlayerPrefs()
     {
         PlayerPrefs.DeleteAll();

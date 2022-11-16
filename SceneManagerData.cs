@@ -8,6 +8,7 @@ public class SceneManagerData : MonoBehaviour
     //Cambio de escenas
     public void LoadScene(string scenename)
     {
+        //Referencia a el cambio de escena
         SceneManager.LoadScene(scenename);
     }
 }

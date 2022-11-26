@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923084948546",
+    "project_id": "mi-zona-segura-519c7",
+    "storage_bucket": "mi-zona-segura-519c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923084948546:android:992858a0690be3b0b259db",
+        "android_client_info": {
+          "package_name": "Mi_Zona_segura_V1.R0.Z1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923084948546-8saki822gqd3itadkcj7beh99anhgru4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzjvyg5_cgaSAJAjWR5c_9IT488Krr4WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923084948546-8saki822gqd3itadkcj7beh99anhgru4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
